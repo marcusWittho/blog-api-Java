@@ -6,9 +6,11 @@ create table if not exists tb_user (
     primary key (id)
 );
 
-create table if not exists tb_posts (
+create table if not exists tb_post (
     id int(11) auto_increment,
     title varchar(255),
+    image varchar(255),
+    description varchar(400),
     comments varchar(600),
     post_date varchar(50),
     user_id int(11),
