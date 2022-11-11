@@ -1,6 +1,7 @@
 package com.blog.api.controller;
 
 import com.blog.api.commons.CustomBadRequestException;
+import com.blog.api.commons.CustomUnexpectedException;
 import com.blog.api.commons.DataError;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -18,12 +19,10 @@ public class AdviceManager {
     return ResponseEntity.status(HttpStatus.BAD_REQUEST).body(error);
   }
 
-  @ExceptionHandler({Exception.class})
-  public ResponseEntity<DataError> handlerException(Exception exception) {
+  @ExceptionHandler({CustomUnexpectedException.class})
+  public ResponseEntity<DataError> handlerException(CustomUnexpectedException exception) {
 
-    DataError error = new DataError();
-
-    error.setCause(exception.getCause());
+    DataError error = new DataError(exception.getMessage());
 
     return ResponseEntity.status(HttpStatus.EXPECTATION_FAILED).body(error);
   }
