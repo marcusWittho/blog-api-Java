@@ -1,0 +1,3 @@
+2022-11-11 19:34:33,942 -0300 [http-nio-8080-exec-1] INFO  (UserService.java:27) - Inserção do novo usuário: username
+2022-11-11 19:34:34,050 -0300 [http-nio-8080-exec-1] ERROR (UserService.java:51) - Error message: Existe um usuário cadastrado com este email.
+2022-11-11 19:36:52,880 -0300 [http-nio-8080-exec-1] INFO  (UserService.java:27) - Inserção do novo usuário: username

@@ -5,10 +5,9 @@ import com.blog.api.commons.CustomUnexpectedException;
 import com.blog.api.dto.UserDto;
 import com.blog.api.model.User;
 import com.blog.api.repository.UserRepository;
+import javax.transaction.Transactional;
 import org.apache.log4j.Logger;
 import org.springframework.stereotype.Service;
-
-import javax.transaction.Transactional;
 
 @Service
 public class UserService {

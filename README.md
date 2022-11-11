@@ -2,8 +2,10 @@
 
 Projeto desenvolvido para praticar e aprimorar os conhecimentos em Java.
 
-## Tecnologias utilizadas:
+## Principaos tecnologias utilizadas:
   - Spring
   - Gradle
   - Docker
-  - Mysql
+  - MySql
+  - Log4J
+  - JUnit5

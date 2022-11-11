@@ -9,7 +9,6 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.OneToMany;
 import javax.persistence.Table;
-import javax.validation.constraints.NotNull;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -21,15 +20,13 @@ public class User {
   @GeneratedValue(strategy = GenerationType.IDENTITY)
   private Integer id;
 
-  @Column
+  @Column(nullable = false)
   private String username;
 
-  @Column
-  @NotNull
+  @Column(unique = true, nullable = false)
   private String email;
 
-  @Column
-  @NotNull
+  @Column(nullable = false)
   private String password;
 
   @OneToMany(mappedBy = "user", fetch = FetchType.LAZY, cascade = CascadeType.ALL,
