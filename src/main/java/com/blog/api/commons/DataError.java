@@ -4,6 +4,8 @@ public class DataError {
 
   private String error;
 
+  private Throwable cause;
+
   public DataError() {}
 
   public DataError(String error) {
@@ -16,5 +18,13 @@ public class DataError {
 
   public void setError(String error) {
     this.error = error;
+  }
+
+  public Throwable getCause() {
+    return cause;
+  }
+
+  public void setCause(Throwable cause) {
+    this.cause = cause;
   }
 }
