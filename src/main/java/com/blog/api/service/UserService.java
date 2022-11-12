@@ -1,6 +1,7 @@
 package com.blog.api.service;
 
 import com.blog.api.commons.CustomBadRequestException;
+import com.blog.api.commons.CustomNotFoundException;
 import com.blog.api.commons.CustomUnexpectedException;
 import com.blog.api.dto.UserDto;
 import com.blog.api.model.User;
@@ -8,6 +9,8 @@ import com.blog.api.repository.UserRepository;
 import javax.transaction.Transactional;
 import org.apache.log4j.Logger;
 import org.springframework.stereotype.Service;
+
+import java.util.List;
 
 @Service
 public class UserService {
@@ -49,6 +52,27 @@ public class UserService {
       return "Usuário " + userDto.getUsername() + " cadastrado com sucesso.";
     } catch (CustomBadRequestException err) {
       logger.error("Error message: " + err.getMessage());
+      throw err;
+    } catch (Exception err) {
+      logger.error("Erro inesperado ao tentar inserir um novo usuário.");
+      throw new CustomUnexpectedException("Erro inesperado ao tentar inserir um novo usuário.");
+    }
+  }
+
+  public List<User> listUsers() {
+
+    try {
+      logger.info("Pedido para listar os usuários cadastrados.");
+
+      List<User> allUsers = this.userRepository.findAll();
+
+      if (allUsers.isEmpty()) {
+        throw new CustomNotFoundException("Nenhum usuário foi encontrado.");
+      }
+
+      return allUsers;
+    } catch (CustomNotFoundException err) {
+      logger.info("Info message: " + err.getMessage());
       throw err;
     } catch (Exception err) {
       logger.error("Erro inesperado ao tentar inserir um novo usuário.");

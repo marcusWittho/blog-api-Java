@@ -4,6 +4,8 @@ import com.blog.api.dto.UserDto;
 import com.blog.api.model.User;
 import com.blog.api.repository.UserRepository;
 import com.blog.api.service.UserService;
+
+import java.util.List;
 import java.util.Optional;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -54,5 +56,11 @@ public class UserController {
     HttpStatus status = (valid) ? HttpStatus.OK : HttpStatus.UNAUTHORIZED;
 
     return ResponseEntity.status(status).body(valid);
+  }
+
+  @GetMapping("/listAll")
+  public ResponseEntity<List<User>> listAll() {
+
+    return ResponseEntity.status(HttpStatus.OK).body(userService.listUsers());
   }
 }

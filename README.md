@@ -9,3 +9,5 @@ Projeto desenvolvido para praticar e aprimorar os conhecimentos em Java.
   - MySql
   - Log4J
   - JUnit5
+  - Spring Security
+  - OAuth2

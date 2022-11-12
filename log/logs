@@ -1,3 +1,6 @@
-2022-11-11 19:34:33,942 -0300 [http-nio-8080-exec-1] INFO  (UserService.java:27) - Inserção do novo usuário: username
-2022-11-11 19:34:34,050 -0300 [http-nio-8080-exec-1] ERROR (UserService.java:51) - Error message: Existe um usuário cadastrado com este email.
-2022-11-11 19:36:52,880 -0300 [http-nio-8080-exec-1] INFO  (UserService.java:27) - Inserção do novo usuário: username
+2022-11-12 17:35:00,088 -0300 [http-nio-8080-exec-1] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.
+2022-11-12 17:35:00,209 -0300 [http-nio-8080-exec-1] ERROR (UserService.java:75) - Error message: Nenhum usuário foi encontrado.
+2022-11-12 17:36:08,808 -0300 [http-nio-8080-exec-1] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.
+2022-11-12 17:36:08,906 -0300 [http-nio-8080-exec-1] INFO  (UserService.java:75) - Info message: Nenhum usuário foi encontrado.
+2022-11-12 17:42:45,018 -0300 [http-nio-8080-exec-3] INFO  (UserService.java:30) - Inserção do novo usuário: username
+2022-11-12 17:42:49,255 -0300 [http-nio-8080-exec-4] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.

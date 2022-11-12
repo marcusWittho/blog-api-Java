@@ -1,6 +1,7 @@
 package com.blog.api.controller;
 
 import com.blog.api.commons.CustomBadRequestException;
+import com.blog.api.commons.CustomNotFoundException;
 import com.blog.api.commons.CustomUnexpectedException;
 import com.blog.api.commons.DataError;
 import org.springframework.http.HttpStatus;
@@ -25,5 +26,13 @@ public class AdviceManager {
     DataError error = new DataError(exception.getMessage());
 
     return ResponseEntity.status(HttpStatus.EXPECTATION_FAILED).body(error);
+  }
+
+  @ExceptionHandler({CustomNotFoundException.class})
+  public ResponseEntity<DataError> handlerNotFound(CustomNotFoundException exception) {
+
+    DataError error = new DataError(exception.getMessage());
+
+    return ResponseEntity.status(HttpStatus.NOT_FOUND).body(error);
   }
 }
