@@ -30,7 +30,7 @@ public class UserService {
       logger.info("Inserção do novo usuário: " + userDto.getUsername());
 
       if (userDto.getUsername().isEmpty()) {
-        throw new CustomBadRequestException("Informe o nome de usuário");
+        throw new CustomBadRequestException("Informe o nome de usuário.");
       }
 
       if (userDto.getEmail().isEmpty()) {

@@ -4,3 +4,642 @@
 2022-11-12 17:36:08,906 -0300 [http-nio-8080-exec-1] INFO  (UserService.java:75) - Info message: Nenhum usuário foi encontrado.
 2022-11-12 17:42:45,018 -0300 [http-nio-8080-exec-3] INFO  (UserService.java:30) - Inserção do novo usuário: username
 2022-11-12 17:42:49,255 -0300 [http-nio-8080-exec-4] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.
+2022-11-12 18:42:25,648 -0300 [http-nio-8080-exec-1] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.
+2022-11-12 18:42:52,587 -0300 [http-nio-8080-exec-2] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.
+2022-11-13 11:08:09,626 -0300 [http-nio-8080-exec-1] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.
+2022-11-13 11:08:09,815 -0300 [http-nio-8080-exec-1] INFO  (UserService.java:75) - Info message: Nenhum usuário foi encontrado.
+2022-11-13 11:08:45,969 -0300 [http-nio-8080-exec-2] INFO  (UserService.java:30) - Inserção do novo usuário: username
+2022-11-13 12:21:08,863 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 12:24:07,167 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 12:24:25,173 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 12:24:25,177 -0300 [Test worker] ERROR (UserService.java:57) - Erro inesperado ao tentar inserir um novo usuário.
+2022-11-13 12:24:37,738 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 12:43:13,854 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 12:43:13,895 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 12:43:24,136 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 12:43:24,141 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário
+2022-11-13 12:43:24,162 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 12:43:44,699 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 12:43:44,703 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 12:43:44,717 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 12:45:29,553 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 12:46:16,112 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 12:48:09,488 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 12:48:09,492 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário
+2022-11-13 12:48:09,506 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 12:59:30,707 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 12:59:30,712 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 12:59:30,729 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 12:59:45,157 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 12:59:45,161 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Ieforme o nome de usuário.
+2022-11-13 12:59:45,177 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 12:59:57,445 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 12:59:57,450 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 12:59:57,466 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:03:05,585 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 13:03:05,590 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 13:03:05,607 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 13:03:05,608 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 13:03:05,616 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:03:26,985 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 13:03:26,991 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 13:03:27,010 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:03:27,014 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 13:03:27,017 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:06:20,523 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 13:06:20,529 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 13:06:20,546 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:06:20,547 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 13:06:20,551 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:06:20,552 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 13:06:20,560 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:06:37,058 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 13:06:37,062 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 13:06:37,082 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:06:37,083 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 13:06:37,088 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:06:37,097 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 13:06:37,101 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:13:19,332 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 13:13:19,338 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 13:13:19,363 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:13:19,364 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 13:13:19,368 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:13:19,384 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 13:13:19,406 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:15:08,307 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 13:15:08,311 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 13:15:08,329 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:15:08,330 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 13:15:08,334 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:15:08,343 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 13:15:08,363 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:28:32,227 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 13:28:32,232 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 13:28:32,252 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:28:32,253 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 13:28:32,257 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:28:32,267 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 13:28:32,307 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:32:49,850 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 13:32:49,855 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 13:32:49,870 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:32:49,871 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 13:32:49,874 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:32:49,882 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 13:32:49,895 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:33:11,708 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 13:33:11,713 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 13:33:11,730 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:33:11,731 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 13:33:11,737 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:33:11,744 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 13:33:11,761 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:34:24,207 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 13:34:24,212 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 13:34:24,230 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:34:24,230 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 13:34:24,234 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:34:24,244 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 13:34:24,257 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:37:37,940 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 13:37:37,945 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 13:37:37,960 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:37:37,961 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 13:37:37,965 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:37:37,978 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 13:37:38,013 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:44:14,060 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 13:44:14,064 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 13:44:14,081 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:44:14,081 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 13:44:14,087 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:44:14,095 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 13:44:14,127 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:48:26,337 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 13:48:26,341 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 13:48:26,356 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:48:26,356 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 13:48:26,360 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:48:26,368 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 13:48:26,403 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:49:53,353 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 13:49:53,358 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 13:49:53,374 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:49:53,375 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 13:49:53,378 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:49:53,386 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 13:49:53,391 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:49:53,395 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:49:53,402 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:51:27,836 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 13:51:27,840 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 13:51:27,858 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:51:27,858 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 13:51:27,861 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:51:27,870 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 13:51:27,875 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:51:27,888 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:52:10,123 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 13:52:10,128 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 13:52:10,149 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:52:10,150 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 13:52:10,154 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:52:10,162 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 13:52:10,170 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:52:10,190 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:54:58,667 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 13:54:58,672 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 13:54:58,690 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:54:58,690 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 13:54:58,694 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:54:58,703 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 13:54:58,709 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:54:58,727 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:55:51,737 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 13:55:51,742 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 13:55:51,758 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:55:51,759 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 13:55:51,764 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 13:55:51,773 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 13:55:51,786 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 14:01:14,464 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 14:01:14,470 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 14:01:14,487 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 14:01:14,490 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 14:01:14,495 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 14:01:14,504 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 14:01:14,521 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 14:04:11,953 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 14:04:11,959 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 14:04:11,978 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 14:04:11,980 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 14:04:11,988 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 14:04:11,999 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 14:04:12,029 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 14:06:58,759 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 14:06:58,764 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 14:06:58,778 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 14:06:58,779 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 14:06:58,783 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 14:06:58,792 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 14:06:58,802 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 14:07:11,743 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 14:07:11,747 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 14:07:11,764 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 14:07:11,764 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 14:07:11,768 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 14:07:11,777 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 14:07:11,788 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 14:09:44,083 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 14:09:44,087 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 14:09:44,103 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 14:09:44,104 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 14:09:44,107 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 14:09:44,115 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 14:09:44,129 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 14:11:43,025 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 14:11:43,029 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 14:11:43,045 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 14:11:43,045 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 14:11:43,050 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 14:11:43,058 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 14:11:43,070 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 14:12:43,881 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 14:12:43,887 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 14:12:43,904 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 14:12:43,904 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 14:12:43,908 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 14:12:43,916 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 14:12:43,928 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 14:13:12,946 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 14:13:12,950 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 14:13:12,966 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 14:13:12,966 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 14:13:12,971 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 14:13:12,979 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 14:13:12,989 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 14:31:14,641 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 14:31:14,645 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 14:31:14,661 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 14:31:14,662 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 14:31:14,666 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 14:31:14,673 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 14:31:14,676 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 14:31:14,681 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 14:31:14,690 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 14:33:46,880 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 14:33:46,884 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 14:33:46,901 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 14:33:46,901 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 14:33:46,905 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 14:33:46,913 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 14:33:46,919 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 14:33:46,929 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 14:36:14,923 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 14:36:14,928 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 14:36:14,945 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 14:36:14,946 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 14:36:14,950 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 14:36:14,959 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 14:36:14,964 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 14:36:14,975 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 14:38:25,652 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 14:38:25,657 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 14:38:25,673 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 14:38:25,673 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 14:38:25,677 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 14:38:25,686 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 14:38:25,696 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 14:39:10,546 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 14:39:10,550 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 14:39:10,568 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 14:39:10,569 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 14:39:10,573 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 14:39:10,583 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 14:39:10,592 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 14:56:52,948 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 14:56:52,952 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 14:56:52,972 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 14:56:52,973 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 14:56:52,977 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 14:56:52,985 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 14:56:52,989 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 14:56:53,003 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 14:57:12,093 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 14:57:12,099 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 14:57:12,125 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 14:57:12,126 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 14:57:12,132 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 14:58:11,840 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 14:58:35,345 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 14:58:43,235 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 15:01:32,377 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 15:01:45,910 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 15:02:14,937 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 15:02:55,578 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 15:03:28,732 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 15:05:06,376 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 15:07:40,697 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 15:07:40,701 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 15:07:40,718 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 15:07:40,719 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 15:07:40,722 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 15:07:40,731 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 15:07:40,734 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 15:07:40,739 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 15:07:40,747 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 15:09:46,414 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 15:09:46,418 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 15:09:46,436 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 15:09:46,436 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 15:09:46,440 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 15:09:46,448 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 15:09:46,454 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 15:09:46,477 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 15:11:32,574 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 15:11:32,578 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 15:11:32,593 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 15:11:32,594 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 15:11:32,597 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 15:11:32,606 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 15:11:32,612 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 15:11:32,629 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 15:12:09,448 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 15:12:09,452 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 15:12:09,470 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 15:12:09,471 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 15:12:09,475 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 15:12:09,483 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 15:12:09,493 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 15:27:15,305 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 15:27:15,309 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 15:27:15,332 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 15:27:15,342 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 15:27:15,351 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 15:27:15,351 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 15:27:15,356 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 15:27:15,357 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 15:27:15,372 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 15:27:35,857 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 15:27:35,862 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 15:27:35,878 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 15:27:35,889 -0300 [Test worker] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.
+2022-11-13 15:27:35,890 -0300 [Test worker] INFO  (UserService.java:75) - Info message: Nenhum usuário foi encontrado.
+2022-11-13 15:27:35,896 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 15:27:35,896 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 15:27:35,900 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 15:27:35,901 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 15:27:35,912 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 15:31:40,076 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 15:31:40,080 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 15:31:40,097 -0300 [Test worker] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.
+2022-11-13 15:31:40,105 -0300 [Test worker] INFO  (UserService.java:75) - Info message: Nenhum usuário foi encontrado.
+2022-11-13 15:31:40,110 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 15:31:40,110 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 15:31:40,115 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 15:31:40,116 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 15:31:40,131 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 15:37:04,088 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 15:37:04,093 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 15:37:04,109 -0300 [Test worker] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.
+2022-11-13 15:37:04,117 -0300 [Test worker] INFO  (UserService.java:75) - Info message: Nenhum usuário foi encontrado.
+2022-11-13 15:37:04,126 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 15:37:04,131 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 15:37:04,135 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 15:37:04,137 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 15:37:04,147 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 15:37:04,157 -0300 [Test worker] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.
+2022-11-13 15:37:04,157 -0300 [Test worker] INFO  (UserService.java:75) - Info message: Nenhum usuário foi encontrado.
+2022-11-13 15:39:42,397 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 15:39:42,404 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 15:39:42,425 -0300 [Test worker] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.
+2022-11-13 15:39:42,434 -0300 [Test worker] INFO  (UserService.java:75) - Info message: Nenhum usuário foi encontrado.
+2022-11-13 15:39:42,443 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 15:39:42,444 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 15:39:42,455 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 15:39:42,456 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 15:39:42,468 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 15:39:42,476 -0300 [Test worker] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.
+2022-11-13 15:39:42,477 -0300 [Test worker] INFO  (UserService.java:75) - Info message: Nenhum usuário foi encontrado.
+2022-11-13 15:39:55,678 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 15:39:55,683 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 15:39:55,699 -0300 [Test worker] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.
+2022-11-13 15:39:55,708 -0300 [Test worker] INFO  (UserService.java:75) - Info message: Nqnhum usuário foi encontrado.
+2022-11-13 15:39:55,714 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 15:39:55,715 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 15:39:55,720 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 15:39:55,722 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 15:39:55,736 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 15:39:55,744 -0300 [Test worker] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.
+2022-11-13 15:39:55,745 -0300 [Test worker] INFO  (UserService.java:75) - Info message: Nqnhum usuário foi encontrado.
+2022-11-13 15:40:07,103 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 15:40:07,108 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 15:40:07,124 -0300 [Test worker] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.
+2022-11-13 15:40:07,132 -0300 [Test worker] INFO  (UserService.java:75) - Info message: Nenhum usuário foi encontrado.
+2022-11-13 15:40:07,136 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 15:40:07,137 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 15:40:07,141 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 15:40:07,144 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 15:40:07,157 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 15:40:07,167 -0300 [Test worker] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.
+2022-11-13 15:40:07,168 -0300 [Test worker] INFO  (UserService.java:75) - Info message: Nenhum usuário foi encontrado.
+2022-11-13 16:40:03,125 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 16:40:03,130 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 16:40:03,153 -0300 [Test worker] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.
+2022-11-13 16:40:03,154 -0300 [Test worker] INFO  (UserService.java:75) - Info message: Nenhum usuário foi encontrado.
+2022-11-13 16:40:03,168 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 16:40:03,173 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 16:40:03,185 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 16:40:03,185 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 16:40:03,203 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 16:40:03,216 -0300 [Test worker] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.
+2022-11-13 16:40:03,217 -0300 [Test worker] INFO  (UserService.java:75) - Info message: Nenhum usuário foi encontrado.
+2022-11-13 16:46:41,695 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 16:46:41,701 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 16:46:41,731 -0300 [Test worker] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.
+2022-11-13 16:46:41,735 -0300 [Test worker] INFO  (UserService.java:75) - Info message: Nenhum usuário foi encontrado.
+2022-11-13 16:46:41,750 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 16:46:41,751 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 16:46:41,754 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 16:46:41,756 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 16:46:41,768 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 16:46:41,779 -0300 [Test worker] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.
+2022-11-13 16:46:41,780 -0300 [Test worker] INFO  (UserService.java:75) - Info message: Nenhum usuário foi encontrado.
+2022-11-13 16:49:07,246 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 16:49:07,251 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 16:49:07,276 -0300 [Test worker] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.
+2022-11-13 16:49:07,279 -0300 [Test worker] INFO  (UserService.java:75) - Info message: Nenhum usuário foi encontrado.
+2022-11-13 16:49:07,291 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 16:49:07,293 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 16:49:07,298 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 16:49:07,299 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 16:49:07,307 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 16:49:07,316 -0300 [Test worker] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.
+2022-11-13 16:49:07,317 -0300 [Test worker] INFO  (UserService.java:75) - Info message: Nenhum usuário foi encontrado.
+2022-11-13 16:50:54,594 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 16:50:54,598 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 16:50:54,614 -0300 [Test worker] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.
+2022-11-13 16:50:54,622 -0300 [Test worker] INFO  (UserService.java:75) - Info message: Nenhum usuário foi encontrado.
+2022-11-13 16:50:54,629 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 16:50:54,629 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 16:50:54,636 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 16:50:54,638 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 16:50:54,653 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 16:50:54,662 -0300 [Test worker] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.
+2022-11-13 16:50:54,663 -0300 [Test worker] INFO  (UserService.java:75) - Info message: Nenhum usuário foi encontrado.
+2022-11-13 16:52:40,113 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 16:52:40,117 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 16:52:40,133 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 16:52:40,142 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 16:52:40,154 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 16:52:40,155 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 16:52:40,158 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 16:52:40,159 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 16:52:40,169 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 16:52:40,179 -0300 [Test worker] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.
+2022-11-13 16:52:40,179 -0300 [Test worker] INFO  (UserService.java:75) - Info message: Nenhum usuário foi encontrado.
+2022-11-13 16:52:55,037 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 16:52:55,042 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 16:52:55,057 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 16:52:55,069 -0300 [Test worker] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.
+2022-11-13 16:52:55,070 -0300 [Test worker] INFO  (UserService.java:75) - Info message: Nenhum usuário foi encontrado.
+2022-11-13 16:52:55,077 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 16:52:55,077 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 16:52:55,084 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 16:52:55,084 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 16:52:55,097 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 16:52:55,101 -0300 [Test worker] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.
+2022-11-13 16:52:55,101 -0300 [Test worker] INFO  (UserService.java:75) - Info message: Nenhum usuário foi encontrado.
+2022-11-13 16:56:43,149 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 16:56:43,153 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 16:56:43,182 -0300 [Test worker] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.
+2022-11-13 16:56:43,185 -0300 [Test worker] INFO  (UserService.java:75) - Info message: Nenhum usuário foi encontrado.
+2022-11-13 16:56:43,190 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 16:56:43,191 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 16:56:43,195 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 16:56:43,197 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 16:56:43,207 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 16:56:43,215 -0300 [Test worker] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.
+2022-11-13 16:56:43,216 -0300 [Test worker] INFO  (UserService.java:75) - Info message: Nenhum usuário foi encontrado.
+2022-11-13 16:59:34,684 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 16:59:34,688 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 16:59:34,717 -0300 [Test worker] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.
+2022-11-13 16:59:34,719 -0300 [Test worker] INFO  (UserService.java:75) - Info message: Nenhum usuário foi encontrado.
+2022-11-13 16:59:34,725 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 16:59:34,726 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 16:59:34,734 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 16:59:34,735 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 16:59:34,746 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 16:59:34,758 -0300 [Test worker] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.
+2022-11-13 16:59:34,759 -0300 [Test worker] INFO  (UserService.java:75) - Info message: Nenhum usuário foi encontrado.
+2022-11-13 17:00:35,147 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 17:00:35,151 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 17:00:35,178 -0300 [Test worker] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.
+2022-11-13 17:00:35,181 -0300 [Test worker] INFO  (UserService.java:75) - Info message: Nenhum usuário foi encontrado.
+2022-11-13 17:00:35,194 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 17:00:35,195 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 17:00:35,201 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 17:00:35,203 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 17:00:35,217 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 17:00:35,223 -0300 [Test worker] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.
+2022-11-13 17:00:35,224 -0300 [Test worker] INFO  (UserService.java:75) - Info message: Nenhum usuário foi encontrado.
+2022-11-13 17:00:35,227 -0300 [Test worker] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.
+2022-11-13 17:00:35,228 -0300 [Test worker] INFO  (UserService.java:75) - Info message: Nenhum usuário foi encontrado.
+2022-11-13 17:02:47,881 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 17:02:47,885 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 17:02:47,916 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 17:02:47,917 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 17:02:47,921 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 17:02:47,922 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 17:02:47,931 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 17:02:47,939 -0300 [Test worker] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.
+2022-11-13 17:02:47,941 -0300 [Test worker] INFO  (UserService.java:75) - Info message: Nenhum usuário foi encontrado.
+2022-11-13 17:03:55,651 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 17:03:55,660 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 17:03:55,716 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 17:03:55,717 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 17:03:55,721 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 17:03:55,723 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 17:03:55,733 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 17:03:55,742 -0300 [Test worker] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.
+2022-11-13 17:03:55,743 -0300 [Test worker] INFO  (UserService.java:75) - Info message: Nenhum usuário foi encontrado.
+2022-11-13 17:05:46,255 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 17:05:46,262 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 17:05:46,319 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 17:05:46,319 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 17:05:46,325 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 17:05:46,328 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 17:05:46,338 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 17:05:46,348 -0300 [Test worker] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.
+2022-11-13 17:05:46,349 -0300 [Test worker] INFO  (UserService.java:75) - Info message: Nenhum usuário foi encontrado.
+2022-11-13 17:09:40,076 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 17:09:40,084 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 17:09:40,138 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 17:09:40,139 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 17:09:40,146 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 17:09:40,149 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 17:09:40,170 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 17:09:40,187 -0300 [Test worker] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.
+2022-11-13 17:09:40,188 -0300 [Test worker] INFO  (UserService.java:75) - Info message: Nenhum usuário foi encontrado.
+2022-11-13 17:11:25,666 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 17:11:25,671 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 17:11:25,691 -0300 [Test worker] ERROR (UserService.java:57) - Erro inesperado ao tentar inserir um novo usuário.
+2022-11-13 17:11:25,713 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 17:11:25,727 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 17:11:25,745 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 17:11:25,755 -0300 [Test worker] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.
+2022-11-13 17:11:25,757 -0300 [Test worker] INFO  (UserService.java:75) - Info message: Nenhum usuário foi encontrado.
+2022-11-13 17:11:57,597 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 17:11:57,601 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 17:11:57,635 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 17:11:57,636 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 17:11:57,645 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 17:11:57,648 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 17:11:57,661 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 17:11:57,668 -0300 [Test worker] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.
+2022-11-13 17:11:57,669 -0300 [Test worker] INFO  (UserService.java:75) - Info message: Nenhum usuário foi encontrado.
+2022-11-13 17:12:18,874 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 17:12:18,880 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 17:12:18,914 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 17:12:18,914 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 17:12:18,918 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 17:12:18,924 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 17:12:18,941 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 17:12:18,952 -0300 [Test worker] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.
+2022-11-13 17:12:18,953 -0300 [Test worker] INFO  (UserService.java:75) - Info message: Nenhum usuário foi encontrado.
+2022-11-13 17:12:35,399 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 17:12:35,403 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 17:12:35,419 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 17:12:35,428 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 17:12:35,436 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 17:12:35,436 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 17:12:35,443 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 17:12:35,444 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 17:12:35,458 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 17:12:35,467 -0300 [Test worker] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.
+2022-11-13 17:12:35,467 -0300 [Test worker] INFO  (UserService.java:75) - Info message: Nenhum usuário foi encontrado.
+2022-11-13 17:12:56,226 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 17:12:56,230 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 17:12:56,247 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 17:12:56,271 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 17:12:56,272 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 17:12:56,280 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 17:12:56,281 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 17:12:56,291 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 17:12:56,300 -0300 [Test worker] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.
+2022-11-13 17:12:56,301 -0300 [Test worker] INFO  (UserService.java:75) - Info message: Nenhum usuário foi encontrado.
+2022-11-13 17:13:43,047 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 17:13:43,052 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 17:13:43,069 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 17:13:43,082 -0300 [Test worker] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.
+2022-11-13 17:13:43,087 -0300 [Test worker] ERROR (UserService.java:78) - Erro inesperado ao tentar inserir um novo usuário.
+2022-11-13 17:13:43,093 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 17:13:43,094 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 17:13:43,101 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 17:13:43,101 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 17:13:43,110 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 17:13:43,114 -0300 [Test worker] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.
+2022-11-13 17:13:43,115 -0300 [Test worker] INFO  (UserService.java:75) - Info message: Nenhum usuário foi encontrado.
+2022-11-13 17:18:21,512 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 17:18:21,517 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 17:18:21,532 -0300 [Test worker] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.
+2022-11-13 17:18:21,539 -0300 [Test worker] INFO  (UserService.java:75) - Info message: Nenhum usuário foi encontrado.
+2022-11-13 17:18:21,546 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 17:18:21,546 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 17:18:21,555 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 17:18:21,557 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 17:18:21,572 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 17:18:21,582 -0300 [Test worker] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.
+2022-11-13 17:18:21,583 -0300 [Test worker] INFO  (UserService.java:75) - Info message: Nenhum usuário foi encontrado.
+2022-11-13 17:21:13,409 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 17:21:13,413 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 17:21:13,429 -0300 [Test worker] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.
+2022-11-13 17:21:13,439 -0300 [Test worker] INFO  (UserService.java:75) - Info message: Nenhum usuário foi encontrado.
+2022-11-13 17:21:13,444 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 17:21:13,445 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 17:21:13,448 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 17:21:13,451 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 17:21:13,463 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 17:21:13,472 -0300 [Test worker] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.
+2022-11-13 17:21:13,472 -0300 [Test worker] INFO  (UserService.java:75) - Info message: Nenhum usuário foi encontrado.
+2022-11-13 17:25:19,441 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 17:25:19,446 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 17:25:19,472 -0300 [Test worker] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.
+2022-11-13 17:25:19,474 -0300 [Test worker] INFO  (UserService.java:75) - Info message: Nenhum usuário foi encontrado.
+2022-11-13 17:25:19,480 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 17:25:19,481 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 17:25:19,485 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 17:25:19,487 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 17:25:19,501 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 17:25:19,509 -0300 [Test worker] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.
+2022-11-13 17:25:19,510 -0300 [Test worker] INFO  (UserService.java:75) - Info message: Nenhum usuário foi encontrado.
+2022-11-13 17:25:59,593 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 17:25:59,597 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 17:25:59,645 -0300 [Test worker] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.
+2022-11-13 17:25:59,646 -0300 [Test worker] INFO  (UserService.java:75) - Info message: Nenhum usuário foi encontrado.
+2022-11-13 17:25:59,651 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 17:25:59,652 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 17:25:59,660 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 17:25:59,662 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 17:25:59,671 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 17:25:59,680 -0300 [Test worker] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.
+2022-11-13 17:25:59,681 -0300 [Test worker] INFO  (UserService.java:75) - Info message: Nenhum usuário foi encontrado.
+2022-11-13 17:26:33,821 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 17:26:33,826 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 17:26:33,877 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 17:26:33,878 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 17:26:33,882 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 17:26:33,883 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 17:26:33,891 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 17:26:33,899 -0300 [Test worker] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.
+2022-11-13 17:26:33,900 -0300 [Test worker] INFO  (UserService.java:75) - Info message: Nenhum usuário foi encontrado.
+2022-11-13 17:26:40,936 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: 
+2022-11-13 17:26:40,944 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o nome de usuário.
+2022-11-13 17:26:41,030 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 17:26:41,031 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o email.
+2022-11-13 17:26:41,034 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 17:26:41,037 -0300 [Test worker] ERROR (UserService.java:54) - Error message: Informe o password.
+2022-11-13 17:26:41,049 -0300 [Test worker] INFO  (UserService.java:30) - Inserção do novo usuário: newUser
+2022-11-13 17:26:41,062 -0300 [Test worker] INFO  (UserService.java:65) - Pedido para listar os usuários cadastrados.
+2022-11-13 17:26:41,063 -0300 [Test worker] INFO  (UserService.java:75) - Info message: Nenhum usuário foi encontrado.
